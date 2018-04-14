@@ -1,12 +1,12 @@
 # Site settings
-title: A blog about lorem ipsum dolor sit amet
-description: A blog about lorem ipsum dolor sit amet
+title: Munkhod's page
+description: Welcome to my personal page
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
 username: Munkhod Bayarsaikhan
-user_description: Welcome my personal page. I will share my everything to you!
+user_description: Welcome to my personal page. I will share my everything to you!
 user_title: Science Student
 email: munju08@gmail.com
 facebook_username: munjuub
