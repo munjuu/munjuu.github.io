@@ -6,9 +6,15 @@ url: "localhost:3000" # the base hostname & protocol for your site e.g. http://w
 
 # User settings
 username: Munkhod Bayarsaikhan
+<<<<<<< HEAD
 user_description: Welcome to my personal page!
 user_title: Graduate Student of CS
 email: munkhod.bayar@gmail.com
+=======
+user_description: Welcome to my personal page. I will share my everything to you!
+user_title: Graduate Student of Engineering
+email: munju08@gmail.com
+>>>>>>> c9696e7a94b49f008a7098d1f2b2218fcb82a0bd
 facebook_username: munjuub
 twitter_username: MunjuuB
 github_username:  munjuu
